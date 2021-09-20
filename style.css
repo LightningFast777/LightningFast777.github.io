@@ -7,11 +7,7 @@ h1 {color: rgb(0,0,230); font-size: 25px;}
 #main-th {width: 3200px;}
 
 #familyimg {
-float: left; 
-position: relative:
-left: 400px;
-}
-
-#familyimg2 {
-  float: left
+position: absolute;
+top: 150px;
+left: 25px;
 }
