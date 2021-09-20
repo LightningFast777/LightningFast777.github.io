@@ -9,5 +9,11 @@ h1 {color: rgb(0,0,230); font-size: 25px;}
 #familyimg {
 position: relative;
 float: left;
-margin-left: 120;
+left: 150px;
+}
+
+#family {
+  position: relative;
+  float: right;
+  right: 150px;
 }
