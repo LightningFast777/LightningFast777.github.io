@@ -6,6 +6,10 @@ h1 {color: rgb(0,0,230); font-size: 25px;}
   
 #main-th {width: 40px;}
 
-#familyimg {float: left; margin: 0px; 0px; 0px; 250px;}
+#familyimg {
+float: left;
+position: relative:
+left: 50px;
+}
 
 #familyimg2 {float: left; margin: 0px; 0px; 0px; 250px;}
