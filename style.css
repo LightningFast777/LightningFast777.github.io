@@ -9,11 +9,11 @@ h1 {color: rgb(0,0,230); font-size: 25px;}
 #familyimg {
 position: relative;
 float: left;
-left: 150px;
+margin-left: 20px;
 }
 
 #family {
   position: relative;
   float: right;
-  right: 150px;
+  margin-right: 20px;
 }
